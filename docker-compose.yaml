@@ -1,4 +1,4 @@
-version: '3'
+version: '4'
 services:
   tomcat-service:
     image: 'tomcat:9'
